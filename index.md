@@ -4,7 +4,7 @@ I believe that people have more potential then they know. I work hard to bring o
 
 # Featured Projects
 - [PowerRunner](https://github.com/greggbjensen/power-runner)
-- [CrushFTP for Kubernetes](https://github.com/greggbjensen/helm-crushftp)
+- [CrushFTP for Kubernetes](https://greggbjensen.github.io/helm-crushftp)
 
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/greggbjensen/)
