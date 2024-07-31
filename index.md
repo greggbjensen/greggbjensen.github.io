@@ -1,8 +1,11 @@
 # Gregg B. Jensen
 
-I believe that people have more potential then they know. I work hard to bring out the best in people by facilitating a culture that helps them thrive through self-driven action, training, mentoring, and a shared vision. I build the infrastructure to expand and solidify business by leading architecture, creating teams, integrating technologies, and automating systems. With over 15 years of streamlining process and designing enterprise applications from the ground up; my focus is to bring people, process, and technology together into a self-propelling organization.
+Attaining year-over-year corporate growth, establishing cutting-edge technology applications, and building high-performance engineering teams over a career of two decades.
+
+Proven expertise in spearheading the architecture and delivery of robust software from inception through successful coding, database design, and deployment. Demonstrated track record in building, inspiring, and mentoring diverse teams to maximize overall performance. Known for devising effective cloud-native strategies, efficient CI/CD processes, and infrastructure management across multiple platforms, underlining a strong commitment to innovation and operational excellence. History of defining the overall vision and strategic direction for projects and architecture, focusing on time and budget-compliant delivery. Skilled at keeping abreast with the latest technology trends and best practices to enable feature development, integrations, and legacy modernization.
 
 # Featured Projects
+- [prdeploy](https://greggbjensen.github.io/prdeploy)
 - [PowerRunner](https://greggbjensen.github.io/power-runner)
 - [CrushFTP for Kubernetes](https://greggbjensen.github.io/helm-crushftp)
 
